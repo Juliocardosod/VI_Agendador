@@ -1,0 +1,10 @@
+[DEFAULT]
+LOG_DIR = LOG
+DIAS_LOG = 7
+DEBUG = 1
+LOCALIDADE = Homologação
+
+[COM]
+API = http://IP:PORTA/mensagem
+KEY = chave-da-api
+CANAL = 1
